@@ -1,0 +1,25 @@
+{
+  "name": "neeo-freeboxapi-driver",
+  "version": "0.0.1",
+  "description": "Freebox Player Management via API for NEEO",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carfnann/neeo-freeboxapi-driver.git"
+  },
+  "keywords": [
+    "freebox"
+  ],
+  "author": "Julien Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carfnann/neeo-freeboxapi-driver/issues"
+  },
+  "homepage": "https://github.com/carfnann/neeo-freeboxapi-driver#readme",
+  "dependencies": {
+    "neeo-sdk": "^0.47.8"
+  }
+}
